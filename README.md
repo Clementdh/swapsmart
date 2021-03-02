@@ -1,8 +1,8 @@
-# Pancake Factory
+# Smartswap
 
-[![Actions Status](https://github.com/pancakeswap/pancake-swap-core/workflows/CI/badge.svg)](https://github.com/pancakeswap/pancake-swap-core/actions)
+[![Actions Status](https://github.com)](https://github.com/)
 
-In-depth documentation on PancakeSwap is available at [docs.pancakeswap.finance](https://docs.pancakeswap.finance/).
+In-depth documentation on SmartSwap is available at [docs.](https://docs.).
 
 # Local Development
 
